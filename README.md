@@ -2,6 +2,7 @@
 
 ## Scope
 - NextJS 15
+- Auth.js
 - TailwindCSS
 - Drizzle ORM
 - Supabase
