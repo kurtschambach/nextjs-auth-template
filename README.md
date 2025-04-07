@@ -3,9 +3,9 @@
 ## Scope
 
 - NextJS 15
-- Auth.js
+- Auth.js - Google & Github OAuth
 - TailwindCSS
-- Drizzle ORM
+- Drizzle
 - Supabase
 - Prettier
 - ESLint
