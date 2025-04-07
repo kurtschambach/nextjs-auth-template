@@ -1,6 +1,7 @@
 # Next JS Auth Template
 
 ## Scope
+
 - NextJS 15
 - TailwindCSS
 - Drizzle ORM
@@ -14,6 +15,12 @@ First, run the development server:
 
 ```bash
 pnpm dev
+```
+
+for local development, run the db:
+
+```bash
+sudo docker compose up
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
